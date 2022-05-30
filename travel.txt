@@ -4,3 +4,9 @@ Packing List
 - Socks
 - Pants
 - Shirt
+- Swimsuit
+- Sandals
+
+Picnic
+-------
+- Bread
